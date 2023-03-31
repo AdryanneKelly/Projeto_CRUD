@@ -1,8 +1,8 @@
-# Projeto PHP - CRUD
+## Projeto PHP - CRUD
 
-## Tela Principal:
+### Tela Principal:
 
 
 
-## Tecnologias utilizadas:
+### Tecnologias utilizadas:
 
