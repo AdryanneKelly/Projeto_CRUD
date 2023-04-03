@@ -16,5 +16,5 @@
 ### Descrição:
 
 <ul>
-  <li>Projeto escrito em PHP, banco de dados MySQL, com funções de consulta, cadastro, alteração e exclusão. Formulários simples feitos utilizando Bootstrap. </li>
+  <li>Projeto escrito em PHP, banco de dados MySQL, com funções de consulta, cadastro, alteração e exclusão. Formulários simples feitos utilizando Bootstrap para deixar mais bonito. </li>
 </ul>
